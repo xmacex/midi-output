@@ -1,0 +1,20 @@
+{
+    "name": "MIDI output",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "bluetooth-midi": "github:microsoft/pxt-bluetooth-midi#v2.0.13"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
